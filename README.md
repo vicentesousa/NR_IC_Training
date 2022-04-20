@@ -37,7 +37,9 @@
 
 ### 5G-LENA
 Começar com o conteúdo de [Pedir acesso ao 5G-LENA](https://5g-lena.cttc.es/download/)
+
 Baixar e instala o [o ns-3-dev](https://gitlab.com/nsnam/ns-3-dev) e [5G-LENA](https://gitlab.com/cttc-lena/nr) 
+
 **Objetivos**
 - Instalar o ns-3 + 5G-LENA e dependências;
 
