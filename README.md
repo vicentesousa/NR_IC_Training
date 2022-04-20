@@ -15,7 +15,7 @@
 - Preparação de hands-on do artigo SBRT sobre beamforming (comparação path loss, shadowing e fading) - Lucas
 - Preparação de hands-ons do artigo SBRT sobre cobertura indoor - Ricardo e Dario
 
-## Hands-on 00: Preparação do ambiente de prática e desenvolvimento
+## Fase 00: Preparação do ambiente de prática e desenvolvimento
 
 ### [Criação de máquina virtual Ubuntu Virtual box (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)
 **Objetivos:**
@@ -43,3 +43,29 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 - Instalar e configurar o VS Code;
 - Integrar o ns3 com o VS Code.
 
+## Fase 01: Treinamento do 5G-LENA 
+
+### [Hands-on 01](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)
+**Objetivos:**
+- Entender e detalhar o exemplo **cttc-3gpp-channel-simple-ran.cc**;
+- Testar os diversos parâmetros e verificar comportamentos;
+- Prazo recomendado: 3 dias;
+- Dário: Prazo: TBD . Feito: ;
+- Ricardo: Prazo: TBD . Feito: .
+
+### [Hands-on 02](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)
+**Objetivos:**
+- Entender e detalhar o exemplo **cttc-nr-demo.cc**;
+- Verificar as diferenças desse exemplo com o do hands-on 1. Apontar as principais diferenças no que se refere ao posicionamento e configuração do nrhelper
+- Prazo recomendado: 3 dias;
+- Dário: Prazo: TBD . Feito: ;
+- Ricardo: Prazo: TBD . Feito: .
+
+
+### [Hands-on 03](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)
+**Objetivos:**
+- Entender e detalhar os exemplos **rem-beam-example.cc** e **rem-example.cc**;
+- Gerar o REM com os valores padrões para os dois exemplos. Em seguida, gerar os dois tipos de REMs DL para: aumento no número de elementos de antenas, aumento no número de gNBs e tipos de antena diferentes. Por fim, entender e verificar comportamentos;
+- Prazo recomendado: 3 dias;
+- Dário: Prazo: TBD . Feito: ;
+- Ricardo: Prazo: TBD . Feito: .
