@@ -77,3 +77,11 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 - Prazo recomendado: 3 dias;
 - Dário: Prazo: TBD . Feito: ;
 - Ricardo: Prazo: TBD . Feito: .
+
+### [Hands-on 04](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)
+**Objetivos:**
+- Criar um REM com o cenário da Tarciana.
+- Fazer um studo do posicionamento das gNBs: estudo de cobertura (indoor e outdoor) e em FR1 e FR2;
+- Prazo recomendado: 7 dias;
+- Dário: Prazo: TBD . Feito: ;
+- Ricardo: Prazo: TBD . Feito: .
