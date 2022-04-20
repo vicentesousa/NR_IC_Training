@@ -35,11 +35,17 @@
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
+### 5G-LENA
+Começar com o conteúdo de [Pedir acesso ao 5G-LENA](https://5g-lena.cttc.es/download/)
+Baixar e instala o [o ns-3-dev](https://gitlab.com/nsnam/ns-3-dev) e [5G-LENA](https://gitlab.com/cttc-lena/nr) 
+**Objetivos**
+- Instalar o ns-3 + 5G-LENA e dependências;
+
 ### Preparação do ambiente de trabalho - [Instalando o ns-3 e integrando com o VSCode](https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_03/f00_hd03.ipynb)
 Começar com o conteúdo de [VISUAL STUDIO - AMBIENTES EM PYTHON](https://github.com/vicentesousa/DCO2004_2022/blob/main/notebooks/h01_utilizando_VisualStudio.ipynb)
 Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicentesousa/IC_LTE_ns3/blob/main/fase_01/HD_00/f01_hd00.ipynb)
 **Objetivos**
-- Instalar o ns3 e dependências;
+- Instalar o ns3 e dependências (se já tiver feito, pular para o próximo objetivo);
 - Instalar e configurar o VS Code;
 - Integrar o ns3 com o VS Code.
 
