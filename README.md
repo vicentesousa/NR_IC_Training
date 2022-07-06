@@ -53,7 +53,7 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 
 ## Fase 01: Treinamento do 5G-LENA 
 
-### [Hands-on 01](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd01.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd01.ipynb)
+### [Hands-on 01](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd01.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd01.ipynb)
 **Objetivos:**
 - Entender e detalhar o exemplo **cttc-3gpp-channel-simple-ran.cc**;
 - Testar os diversos parâmetros e verificar comportamentos;
