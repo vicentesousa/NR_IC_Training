@@ -61,7 +61,7 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 - Dário: Prazo: TBD . Feito: ;
 - Ricardo: Prazo: TBD . Feito: .
 
-### [Hands-on 02](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd02.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd02.ipynb)
+### [Hands-on 02](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_02/f01_h02.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_02/f01_h02.ipynb)
 **Objetivos:**
 - Entender e detalhar o exemplo **cttc-nr-demo.cc**;
 - Verificar as diferenças desse exemplo com o do hands-on 1. Apontar as principais diferenças no que se refere ao posicionamento e configuração do nrhelper
