@@ -61,7 +61,7 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 - Dário: Prazo: TBD . Feito: ;
 - Ricardo: Prazo: TBD . Feito: .
 
-### [Hands-on 02](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)
+### [Hands-on 02](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd02.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_01/f01_hd02.ipynb)
 **Objetivos:**
 - Entender e detalhar o exemplo **cttc-nr-demo.cc**;
 - Verificar as diferenças desse exemplo com o do hands-on 1. Apontar as principais diferenças no que se refere ao posicionamento e configuração do nrhelper
@@ -78,7 +78,7 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 - Dário: Prazo: TBD . Feito: ;
 - Ricardo: Prazo: TBD . Feito: .
 
-### [Hands-on 04](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb)
+### [Hands-on 04]([https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb))  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb)
 **Objetivos:**
 - Criar um REM com o cenário da Tarciana.
 - Fazer um studo do posicionamento das gNBs: estudo de cobertura (indoor e outdoor) e em FR1 e FR2;
