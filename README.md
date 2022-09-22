@@ -70,7 +70,7 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 - Ricardo: Prazo: TBD . Feito: .
 
 
-### [Hands-on 03](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_03/f01_h03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_02/f01_h02.ipynb)
+### [Hands-on 03](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_03/f01_h03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_03/f01_h03.ipynb)
 **Objetivos:**
 - Entender e detalhar os exemplos **rem-beam-example.cc** e **rem-example.cc**;
 - Gerar o REM com os valores padrões para os dois exemplos. Em seguida, gerar os dois tipos de REMs DL para: aumento no número de elementos de antenas, aumento no número de gNBs e tipos de antena diferentes. Por fim, entender e verificar comportamentos;
@@ -78,7 +78,7 @@ Colocar o conteúdo de [Hands-on 0: VS Code e ns-3](https://github.com/vicenteso
 - Dário: Prazo: TBD . Feito: ;
 - Ricardo: Prazo: TBD . Feito: .
 
-### [Hands-on 04]([https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb](https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb))  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb)
+### [Hands-on 04]([https://github.com/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb])  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/NR_IC_Training/blob/main/fase_01/HD_04/f01_h04.ipynb)
 **Objetivos:**
 - Criar um REM com o cenário da Tarciana.
 - Fazer um studo do posicionamento das gNBs: estudo de cobertura (indoor e outdoor) e em FR1 e FR2;
